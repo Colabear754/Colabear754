@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+##### Blog : https://colabear754.tistory.com
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=colabear754)](https://solved.ac/colabear754)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colabear754&layout=compact&exclude_repo=EatsOrder&hide=css,html&theme=darcula&hide_border=true&border_radius=20)](https://github.com/Colabear754/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Colabear754&theme=darcula&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 <!--
 **Colabear754/Colabear754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
